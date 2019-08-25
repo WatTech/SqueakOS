@@ -7,5 +7,5 @@ Easy To Use
 Beginners linux distribution
 That even your Granny will understand! :)
 Subscribe to Watson's Technology Official on YouTube! https://www.youtube.com/channel/UCO7WfxLNJoQDoN9wVH9qUOg 
-Download the SqueakOS ISO! https://watsonstechnology.wixsite.com/squeakos
+Download the SqueakOS ISO! https://bit.ly/squeakos
 Thx! Have a nice day! :)
